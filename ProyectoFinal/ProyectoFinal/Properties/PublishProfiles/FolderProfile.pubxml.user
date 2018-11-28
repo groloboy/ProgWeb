@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\Test</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ProyectoFinal.dll">
+      <publishTime>11/21/2018 10:52:30</publishTime>
+    </File>
+    <File Include="bin/ProyectoFinal.pdb">
+      <publishTime>11/21/2018 10:52:30</publishTime>
+    </File>
+    <File Include="Bootstrap/css/.DS_Store">
+      <publishTime>07/23/2018 18:37:16</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-grid.css">
+      <publishTime>07/23/2018 18:37:26</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>07/23/2018 18:37:26</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>07/23/2018 18:37:30</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>07/23/2018 18:37:30</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-reboot.css">
+      <publishTime>07/23/2018 18:37:26</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>07/23/2018 18:37:26</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>07/23/2018 18:37:30</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>07/23/2018 18:37:30</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap.css">
+      <publishTime>07/23/2018 18:37:26</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap.css.map">
+      <publishTime>07/23/2018 18:37:26</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap.min.css">
+      <publishTime>07/23/2018 18:37:28</publishTime>
+    </File>
+    <File Include="Bootstrap/css/bootstrap.min.css.map">
+      <publishTime>07/23/2018 18:37:28</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.bundle.js">
+      <publishTime>07/23/2018 18:37:36</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.bundle.js.map">
+      <publishTime>07/23/2018 18:37:36</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>07/23/2018 18:37:44</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.bundle.min.js.map">
+      <publishTime>07/23/2018 18:37:44</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.js">
+      <publishTime>07/23/2018 18:37:36</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.js.map">
+      <publishTime>07/23/2018 18:37:36</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.min.js">
+      <publishTime>07/23/2018 18:37:42</publishTime>
+    </File>
+    <File Include="Bootstrap/js/bootstrap.min.js.map">
+      <publishTime>07/23/2018 18:37:42</publishTime>
+    </File>
+    <File Include="Bootstrap/js/jquery-3.3.1.js">
+      <publishTime>11/20/2018 15:45:39</publishTime>
+    </File>
+    <File Include="Bootstrap/js/jquery-3.3.1.min.js">
+      <publishTime>11/20/2018 15:46:48</publishTime>
+    </File>
+    <File Include="Bootstrap/js/jquery-3.3.1.min.map">
+      <publishTime>11/20/2018 15:46:27</publishTime>
+    </File>
+    <File Include="Scripts/InicioSesion.js">
+      <publishTime>11/20/2018 10:04:03</publishTime>
+    </File>
+    <File Include="Styles/SomeThings.css">
+      <publishTime>11/20/2018 18:33:47</publishTime>
+    </File>
+    <File Include="Views/Admin/GestionBuzon.aspx">
+      <publishTime>11/20/2018 11:50:24</publishTime>
+    </File>
+    <File Include="Views/Admin/GestionCuenta.aspx">
+      <publishTime>11/20/2018 19:37:36</publishTime>
+    </File>
+    <File Include="Views/Admin/GestionLibros.aspx">
+      <publishTime>11/20/2018 18:35:23</publishTime>
+    </File>
+    <File Include="Views/Admin/GestionServicios.aspx">
+      <publishTime>11/20/2018 11:06:14</publishTime>
+    </File>
+    <File Include="Views/Admin/GestionTipos.aspx">
+      <publishTime>11/20/2018 10:28:27</publishTime>
+    </File>
+    <File Include="Views/Admin/Libros/Libro.aspx">
+      <publishTime>11/20/2018 11:54:13</publishTime>
+    </File>
+    <File Include="Views/Admin/Libros/Seccion.aspx">
+      <publishTime>11/20/2018 11:56:40</publishTime>
+    </File>
+    <File Include="Views/Admin/Login.aspx">
+      <publishTime>11/20/2018 15:51:18</publishTime>
+    </File>
+    <File Include="Views/Admin/Servicios/CrearServicio.aspx">
+      <publishTime>11/20/2018 19:43:23</publishTime>
+    </File>
+    <File Include="Views/MasterPage/Master.Master">
+      <publishTime>11/20/2018 17:50:34</publishTime>
+    </File>
+    <File Include="Views/User/Buzon.aspx">
+      <publishTime>11/20/2018 19:38:48</publishTime>
+    </File>
+    <File Include="Views/User/Localizar.aspx">
+      <publishTime>11/20/2018 19:45:21</publishTime>
+    </File>
+    <File Include="Views/User/Menu.aspx">
+      <publishTime>11/20/2018 16:28:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/21/2018 10:52:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

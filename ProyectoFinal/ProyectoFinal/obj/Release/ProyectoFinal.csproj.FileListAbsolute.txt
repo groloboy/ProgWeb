@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\bin\ProyectoFinal.dll.config
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\bin\ProyectoFinal.dll
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\bin\ProyectoFinal.pdb
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.dll
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.pdb
